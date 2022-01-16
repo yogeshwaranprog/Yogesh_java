@@ -1,0 +1,82 @@
+Project  wise knowledge :
+   Developer :
+       Daily life of java devloper
+		   Agile :
+		      Sprint:
+				iterration:
+					User Story:
+					    Complexity :
+						    Story Point :
+							     Developer Need to give extimation :
+										Developemtnt of functionality in code wise
+										      Analysis
+											  Design Document
+													Techinical Flow
+													ER- Diagram [ Database flow side which includes database table]
+													Design review for sign off [Tech Lead] 
+													Decide the code branch [ git branch  for the devlopment]
+													Chck out
+													  setup workspace
+														Code level configuration
+														 Server setup [Application server / Web Server]
+														      - Application Server 
+															       JNDI Configuration for database
+															  - Web Application Server
+															       Install the instance of server
+														Build tool
+														     - MAVEN
+															 - gradle
+														Database configuration for data table record validation
+														
+													UNIT Testing
+													    Functional side 
+														JUNIT test case
+														Manual Testing
+														
+													Check-in of code in git branch with out any merge conflict
+													Pull- request
+													
+													finish of his task
+													
+There are two different teams
+   Team A - Backend java development - REST API
+   Team B - Frontend UI development - UI 
+   
+   Team B will call Team A REST API  - Integration Testing
+===============================================================================================================================
+Core Java
+   Abstraction , Encapsulation, Inheritance & Polymorphism
+   
+   Exception Handling
+     
+   IO File Handling
+   
+   Java.util.*;  [Collection framework]
+   
+   Mutli Threading [Real Time scenario] 
+   
+   Desgin Pattern 
+       Functional, Behavioural & Structural 
+	   
+   Framework  
+      Spring 4.x
+	     IOC , Spring DAO, Spring MVC, Spring Security, Spring REST,
+      Hibernate 3.x
+	  
+	  Jenkins
+	  
+	  git tool usages
+	  
+	  Sql - Oracle
+	  
+	  Project 
+	     Document
+		 Explaination all modules with code side [ Back end + Database]
+     
+	 Debugging
+	 
+	 When to use which concept for the requirement
+	  How to decide which exception is going to handle at which level [Database level, Serveice Level, USER Level (Custome Exception)& Network side]													
+	  
+												  
+							
